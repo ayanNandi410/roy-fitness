@@ -9,7 +9,7 @@ favicon = true # Enable favicon, add your favicon files to /static/ directory
 grayscale_avatar = false # Add a grayscale filter to the avatar image
 author = 'Debashis Roy' # Default author for <head> meta
 description = "Personal blog and portfolio site of Debashis Roy." # Add a global meta description to <head>
-footer_text = "Built with [Hugo Liftoff](https://github.com/wjh18/hugo-liftoff) theme." # Customize footer text
+footer_text = "Built with Hugo By Ayan" # Customize footer text
 fallback_text = "No content available yet. Coming soon." # Fallback text for empty content
 label_drafts = true # Add a label indicator next to the title of any built drafts (dev only)
 
@@ -48,10 +48,12 @@ about_page_socials = true
 
 # Enable or disable individual social icons
 [social.links]
-  twitter = "username"
-  github = "username"
-  stack_overflow = "userid/username" # include user id
-  email = "user@example.com"
+  # twitter = "username"
+  # github = "username"
+  # stack_overflow = "userid/username" # include user id
+  email = "debasish.roy763@gmail.com"
+  instagram = "jiko_fitness"
+  facebook = "jiko.roy"
   # linkedin = "username" # Comment out to disable
   # mastodon_server = "example.social" # include subdomains if relevant, scheme not needed (defaults to https)
   # mastodon_user = "username" # don't include preceding @
