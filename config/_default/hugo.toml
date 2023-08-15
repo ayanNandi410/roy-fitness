@@ -212,3 +212,8 @@ theme = 'hugo-liftoff'
   baseName = "_headers"
   isPlainText = true
   notAlternative = true
+
+# import boostrap  from https://github.com/gohugoio/hugo-mod-bootstrap-scss
+# [module]
+# [[module.imports]]
+# path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
